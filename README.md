@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Terraform.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ken-1200&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-1200&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ken-1200&show_icons=true) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-1200)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ken-1200/ken-1200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
