@@ -1,8 +1,11 @@
-### 👋 Hi, I’m Kensuke Machida.
+### 👋 Hi, I’m Kensuke Machida
 
 <p align="center">
   <samp>
-    :seedling: I’m a fledgling engineer who likes to write code.<br/>:jp:
-    173.6 cm 66.7 kg.
+    Hello, and welcome to my GitHub profile! My name is Kensuke Machida, and I'm a software engineer who loves to write code and solve problems. I have experience in developing web applications using technologies such as Python, Django, FastAPI, JavaScript, TypeScript, React, Next, Vue, Nuxt, and PostgreSQL etc. I'm also interested in machine learning and data science.
+    <br>
+    When I'm not coding, I exercise, study network-related topics, or read a good book.
+    <br>
+    Feel free to check out my repositories and reach out to me if you have any questions or just want to chat!
   </samp>
 </p>
