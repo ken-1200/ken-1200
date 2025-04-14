@@ -11,7 +11,7 @@ I'm a backend-oriented software engineer based in Japan. I specialize in buildin
 **Backend & Infrastructure**  
 Python (Django, FastAPI) / PostgreSQL / AWS / GCP / Docker / Terraform / GraphQL
 
-**Frontend (for internal tools)**  
+**Frontend**  
 React / Next.js / Vue / Nuxt.js
 
 ## 📈 Career Goals
