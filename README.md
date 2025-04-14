@@ -19,4 +19,4 @@ I’m aiming to grow as a backend/infrastructure engineer and contribute to high
 
 ## 📬 Contact
 LinkedIn: [kensuke-machida](https://www.linkedin.com/in/kensuke-machida-5a1669295/)  
-Resume: [https://ken-1200.github.io/resume/en](https://ken-1200.github.io/resume/en/)
+Resume: [https://ken-1200.github.io/resume/](https://ken-1200.github.io/resume/)
