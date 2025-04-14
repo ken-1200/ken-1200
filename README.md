@@ -9,10 +9,10 @@ I'm a backend-oriented software engineer based in Japan. I specialize in buildin
 
 ## 🛠 Tech Stack
 **Backend & Infrastructure**  
-Python (Django, FastAPI) / PostgreSQL / AWS / GCP / Docker / Terraform / GraphQL
+Python (Django, FastAPI) / TypeScript / PostgreSQL / AWS / GCP / Docker / Terraform / GraphQL
 
 **Frontend**  
-React / Next.js / Vue / Nuxt.js
+TypeScript (React / Next.js, Vue / Nuxt.js)
 
 ## 📈 Career Goals
 I’m aiming to grow as a backend/infrastructure engineer and contribute to high-scale product development at global tech companies.
