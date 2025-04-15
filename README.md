@@ -18,5 +18,5 @@ TypeScript (React / Next.js, Vue / Nuxt.js)
 I’m aiming to grow as a backend/infrastructure engineer and contribute to high-scale product development at global tech companies.
 
 ## 📬 Contact
-LinkedIn: [kensuke-machida](https://www.linkedin.com/in/kensuke-machida/)
+LinkedIn: [kensuke-machida](https://www.linkedin.com/in/kensuke-machida/)  
 Resume: [https://ken-1200.github.io/resume/](https://ken-1200.github.io/resume/)
